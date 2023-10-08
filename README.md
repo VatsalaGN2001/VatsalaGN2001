@@ -34,13 +34,7 @@
 
 ## About Me
 
-I Completed My Bachelor's degree in Electronics and Communication Engineering. I am passionate about coding and software development. My technical skills include:
-
-- Java
-- Python
-- HTML/CSS
-- Object-Oriented Programming (OOP)
-- SQL
+I Completed My Bachelor's degree in Electronics and Communication Engineering. I am passionate about coding and software development.
 
 ## Skills
 
