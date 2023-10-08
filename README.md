@@ -1,4 +1,4 @@
-# Swathi S
+# Vatsala G N
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vatsala-blue)](www.linkedin.com/in/vatsala-g-n-266423232)
 [![GitHub](https://img.shields.io/badge/GitHub-Vatsala-green)](https://github.com/VatsalaGN2001)
