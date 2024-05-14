@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I Completed My Java Full Stack Web Development Course at Tap Academy**
 
-- 💬 Ask me about **Java, Python, SQl, HTML**
+- 💬 Ask me about **Java, Python, SQl, HTML, CSS, JavaScript, JDBC, J2EE, Hibernate, Spring**
 
 - 📫 How to reach me **vatsalagn2001@gmail.com**
 
@@ -45,6 +45,11 @@ I Completed My Bachelor's degree in Electronics and Communication Engineering. I
 - HTML/CSS
 - Object-Oriented Programming (OOP)
 - SQL
+- JavaScript
+- JDBC
+- J2EE
+- Hibernate
+- Spring
 
 *Soft Skills:*
 
